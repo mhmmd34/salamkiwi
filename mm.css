@@ -1,0 +1,67 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tel1{
+    background-color: rgba(187, 19, 173, 0.993);
+    width: 350px;
+    height: 350px;
+}
+.tel2{
+    background-color: blue;
+    width: 350px;
+    height: 350px;
+}
+.roar{
+    display: flex;
+} */
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .con{
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+  }
+  .cards{
+    width: 200px;
+    min-height: 400px;
+  
+    img{
+      width: 100px;
+    }
+  
+    border: 1px solid black;
+  } */
+
+
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .todolist{
+        h2{
+      text-align: center;
+    }
+  }
+  .read{
+    text-align: center;
+  }
+  .baba{
+    text-decoration: line-through;
+    color: gray;
+  }
+  .tamamlandi{
+    text-decoration: line-through;
+    
+  }
+  .button2{
+
+  }
